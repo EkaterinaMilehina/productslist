@@ -1,4 +1,4 @@
-import React, { useState, ChangeEvent, InputHTMLAttributes, useEffect } from 'react';
+import React, { useState, InputHTMLAttributes, useEffect } from 'react';
 import '../../assets/styles/UI.css';
 
 interface InputProps extends InputHTMLAttributes<HTMLInputElement> {
