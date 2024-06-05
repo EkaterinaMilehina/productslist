@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/productslist/static/css/main.4de43777.css",
+    "main.js": "/productslist/static/js/main.c6d78229.js",
+    "static/media/delete.svg": "/productslist/static/media/delete.1fc60b42466f3bcabda5f476d79e6d3f.svg",
+    "index.html": "/productslist/index.html",
+    "static/media/cross.svg": "/productslist/static/media/cross.a31db09c849a1d46514b777801ca8934.svg",
+    "main.4de43777.css.map": "/productslist/static/css/main.4de43777.css.map",
+    "main.c6d78229.js.map": "/productslist/static/js/main.c6d78229.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de43777.css",
+    "static/js/main.c6d78229.js"
+  ]
+}
