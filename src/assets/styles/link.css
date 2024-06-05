@@ -1,0 +1,11 @@
+.product-link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.product-link:hover,
+.product-link:focus,
+.product-link:active {
+    color: inherit;
+    text-decoration: none;
+}
